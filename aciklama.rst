@@ -1,0 +1,4 @@
+Detaylar
+========
+
+Detaylar buraya
