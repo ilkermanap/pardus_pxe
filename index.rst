@@ -6,6 +6,11 @@
 Pardus PXE Belgelendirmesi!
 ======================================
 
+.. meta::
+   :description: Pardux PXE yapılandırması
+   :keywords: pardus, pxe, tftpboot, dhcp
+   :author: İlker Manap
+	    
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
